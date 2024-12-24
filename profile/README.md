@@ -1,14 +1,23 @@
-# 🔬 42 Gaming
-
 <div align="center">
 
-[![Organization](https://img.shields.io/badge/Organization-Dev_Forks-blue?style=for-the-badge&logo=github)](https://github.com/dev-forks-collection)
-[![42](https://img.shields.io/badge/42-Paris-purple?style=for-the-badge)](https://42.fr)
-[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]()
+# 42 Gaming
+---
+<br>
+
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Academy-purple?logo=github&logoColor=white)](https://github.com/42-academy/.github/blob/main/profile/README.md)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-SmartBot_Guild-181717?logo=github)](https://github.com/SmartBot-Guild)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-dev_forks_collection-181717?logo=github)](https://github.com/dev-forks-collection)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Projects-181717?logo=github)](https://github.com/404)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Career_Hub-181717?logo=github)](https://github.com/42-Career-Hub)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_Learning-181717?logo=github)](https://github.com/42-Learning)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-42_DevTools-181717?logo=github)](https://github.com/42-DevTools)
+
+<br>
 
 *Collection de ressources éducatives et ludiques pour développeurs*
 
 </div>
+<br>
 
 ## 🎯 Objectif
 
@@ -18,6 +27,8 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
 - 📚 Ressources pédagogiques éprouvées
 - 🔧 Environnements de pratique sécurisés
 - 💡 Défis de programmation progressifs
+
+<br>
 
 ## 📚 Projets Éducatifs
 
@@ -52,6 +63,7 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - 🎯 Progression par île thématique
   - 💡 Solutions commentées
 </details>
+<br>
 
 ### 🐧 Unix & Shell
 <details>
@@ -77,6 +89,7 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - 📖 [Wiki](https://github.com/OverTheWire/OverTheWire-website/wiki)
   - 🔐 [Challenges SSH](https://overthewire.org/information/connect.html)
 </details>
+<br>
 
 ### 💻 JavaScript & Programmation
 <details>
@@ -100,6 +113,7 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - 📚 [Documentation](https://github.com/AlexNisnevich/untrusted/wiki)
   - ⭐ 4.4k+ stars sur GitHub
 </details>
+<br>
 
 ### ☕ Java & Robotique
 <details>
@@ -146,6 +160,7 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - 💡 Solutions créatives
   - 🌟 Interface intuitive
 </details>
+<br>
 
 ### 🛠️ Outils & Challenges
 <details>
@@ -178,6 +193,7 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - 💡 [À propos](https://projecteuler.net/about)
   - 📖 [FAQ](https://projecteuler.net/faq)
 </details>
+<br>
 
 ### 📚 Ressources d'Apprentissage
 <details>
@@ -210,6 +226,7 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - 💼 [Pro](https://www.codecademy.com/pro)
   - 🏢 [Pour entreprises](https://www.codecademy.com/business)
 </details>
+<br>
 
 ## 🔍 Navigation
 <details>
