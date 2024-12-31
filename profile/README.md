@@ -240,3 +240,12 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
 2. **Par Technologie**
    - 🐚 Shell : [GameShell](https://github.com/phyver/GameShell), [OverTheWire](https://overthewire.org/)
    - 💻 JavaScript : [Screeps](https://screeps.com/), [Untrusted](https://alexnisnevich.github.io
+</details>
+<br>
+
+---
+
+<div align="center">
+
+<sub>Fait avec ❤️ par la communauté 42-academy</sub>
+</div>
