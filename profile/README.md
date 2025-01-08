@@ -117,14 +117,6 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - 👥 Communauté active
   - 📖 Base de connaissances
   - 🌟 Interface moderne
-- [**KillTheYak**](https://github.com/JonathonReinhart/killtheyak)
-  - 🎮 Puzzles pratiques
-  - 📚 Apprentissage shell
-  - 🎯 Solutions vérifiables
-  - 💡 Approche pragmatique
-  - 🌍 Open source
-  - 📖 Guides détaillés
-  - ⭐ Cas réels
 - [**Bashcrawl**](https://gitlab.com/slackermedia/bashcrawl)
   - 🎮 Dungeon crawler Bash
   - 📚 Progression RPG
@@ -133,14 +125,6 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - 🌍 Multi-niveaux
   - 📖 Documentation incluse
   - ⭐ Apprendre en jouant
-- [**TuxType**](http://tuxtype.sourceforge.net/)
-  - 🎮 Training frappe
-  - 🐧 Native Linux
-  - 🎯 Modes multiples
-  - 🌍 Multi-langue
-  - 💡 Statistiques progression
-  - 📊 Suivi performances
-  - 🎨 Design engageant
 </details>
 <br>
 
