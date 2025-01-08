@@ -44,7 +44,6 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - ⭐ 7.4k+ stars sur GitHub
   - 👥 [Forum communautaire](https://discourse.codecombat.com/)
   - 📖 [Guide des niveaux](https://codecombat.com/play)
-
 - [**Bitburner**](https://github.com/danielyxie/bitburner)
   - 🎮 [Jouer en ligne](https://danielyxie.github.io/bitburner/)
   - 📖 [Documentation](https://bitburner.readthedocs.io)
@@ -53,7 +52,6 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - ⭐ 6.5k+ stars
   - 🔄 Version actuelle : v2.3.0
   - 📱 [Extension Steam](https://store.steampowered.com/app/1812820/Bitburner/)
-
 - [**CheckiO**](https://github.com/CheckiO)
   - 🌐 [Python Edition](https://py.checkio.org/)
   - 🌐 [JavaScript Edition](https://js.checkio.org/)
@@ -62,6 +60,30 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - 👥 Revue de code par la communauté
   - 🎯 Progression par île thématique
   - 💡 Solutions commentées
+- [**Terminus**](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+  - 🎮 [Jouer en ligne](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+  - 📚 Apprentissage des commandes Unix
+  - 🎯 Progression intuitive
+  - 💡 Interface de jeu RPG
+  - 🌍 Environnement sécurisé
+  - 📖 Guide intégré
+  - ⭐ Excellent pour débutants
+- [**VimAdventures**](https://vim-adventures.com/)
+  - 🎮 [Jouer en ligne](https://vim-adventures.com/)
+  - 📚 Apprentissage Vim interactif
+  - 🎯 Progression ludique
+  - 💡 Interface RPG
+  - 🌍 Multiple niveaux
+  - 📖 Tutoriels intégrés
+  - ⭐ Très recommandé
+- [**Linux Journey**](https://linuxjourney.com/)
+  - 🌐 [Site officiel](https://linuxjourney.com/)
+  - 📚 Formation Linux complète
+  - 🎯 Modules progressifs
+  - 💡 Exercices pratiques
+  - 🌍 Ressources gratuites
+  - 📖 Documentation détaillée
+  - 👥 Communauté active
 </details>
 <br>
 
@@ -77,7 +99,6 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - 🎯 40+ missions
   - 💡 [Solutions](https://github.com/phyver/GameShell/tree/master/solutions)
   - 🔧 [Scripts utiles](https://github.com/phyver/GameShell/tree/master/utils)
-
 - [**OverTheWire Games**](https://github.com/OverTheWire/OverTheWire-website)
   - 🌐 [Site officiel](https://overthewire.org/wargames/)
   - 📚 Wargames disponibles :
@@ -88,6 +109,38 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - 💭 [IRC](https://overthewire.org/information/irc.html)
   - 📖 [Wiki](https://github.com/OverTheWire/OverTheWire-website/wiki)
   - 🔐 [Challenges SSH](https://overthewire.org/information/connect.html)
+- [**Cmdchallenge**](https://cmdchallenge.com/)
+  - 🎮 [Jouer en ligne](https://cmdchallenge.com/)
+  - 📚 Défis ligne de commande
+  - 🎯 Validation en temps réel
+  - 💡 Solutions multiples
+  - 👥 Communauté active
+  - 📖 Base de connaissances
+  - 🌟 Interface moderne
+- [**KillTheYak**](https://github.com/JonathonReinhart/killtheyak)
+  - 🎮 Puzzles pratiques
+  - 📚 Apprentissage shell
+  - 🎯 Solutions vérifiables
+  - 💡 Approche pragmatique
+  - 🌍 Open source
+  - 📖 Guides détaillés
+  - ⭐ Cas réels
+- [**Bashcrawl**](https://gitlab.com/slackermedia/bashcrawl)
+  - 🎮 Dungeon crawler Bash
+  - 📚 Progression RPG
+  - 🎯 Apprentissage exploratoire
+  - 💡 Structure modulaire
+  - 🌍 Multi-niveaux
+  - 📖 Documentation incluse
+  - ⭐ Apprendre en jouant
+- [**TuxType**](http://tuxtype.sourceforge.net/)
+  - 🎮 Training frappe
+  - 🐧 Native Linux
+  - 🎯 Modes multiples
+  - 🌍 Multi-langue
+  - 💡 Statistiques progression
+  - 📊 Suivi performances
+  - 🎨 Design engageant
 </details>
 <br>
 
@@ -103,7 +156,6 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - 👥 [Forum](https://screeps.com/forum/)
   - 📦 [NPM Package](https://www.npmjs.com/package/screeps)
   - 🎮 [Steam](https://store.steampowered.com/app/464350/Screeps/)
-
 - [**Untrusted**](https://github.com/AlexNisnevich/untrusted)
   - 🎮 [Jouer en ligne](https://alexnisnevich.github.io/untrusted/)
   - 📖 Meta-JavaScript adventure game
@@ -141,7 +193,6 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - 💡 Approche visuelle intuitive
   - ⭐ 5.8k+ stars sur GitHub
   - 🎮 Interface ludique
-
 - [**CSS Grid Garden**](https://github.com/thomaspark/gridgarden)
   - 🌐 [Jouer en ligne](https://cssgridgarden.com/)
   - 📚 Apprendre CSS Grid
@@ -150,7 +201,6 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - 💻 Exercices pratiques
   - 📖 [Documentation](https://github.com/thomaspark/gridgarden/blob/master/README.md)
   - 🎯 Excellent pour les débutants
-
 - [**CSSBattle**](https://cssbattle.dev/)
   - 🎯 [Défis quotidiens](https://cssbattle.dev/daily)
   - 🏆 [Classement](https://cssbattle.dev/leaderboard)
@@ -174,7 +224,6 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - 🎯 [Compétitions](https://www.codingame.com/contests/)
   - 💼 [Offres d'emploi](https://www.codingame.com/work/job-offers/)
   - 👥 [Forum](https://www.codingame.com/forum/t/welcome-to-codingame/1894)
-
 - [**exercism**](https://github.com/exercism/exercism)
   - 🌐 [Site Web](https://exercism.org/)
   - 📚 [Tracks disponibles](https://exercism.org/tracks)
@@ -183,7 +232,6 @@ Cette collection fait référence aux meilleurs outils éducatifs pour apprendre
   - 🎯 [Exercices](https://github.com/exercism/problem-specifications)
   - 📖 [Documentation](https://exercism.org/docs)
   - 🤝 [Contribuer](https://exercism.org/contributing)
-
 - [**Project Euler**](https://projecteuler.net/)
   - 🧮 [Archives](https://projecteuler.net/archives)
   - 📊 [Statistiques](https://projecteuler.net/statistics)
